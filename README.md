@@ -149,11 +149,3 @@ and put them to folder roles/oracle-install/files inside checkout folder
 https://<Oracle_host>:5500/em
 
 
-## Authors
-
-* **Prashant Patankar** - *Initial work* and updates - [plpatankar](https://github.com/plpatankar)
-
-## License
-
-This project is licensed under the ATMF Team License - see the [LICENSE.md](LICENSE.md) file for details
-
